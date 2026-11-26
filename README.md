@@ -43,3 +43,5 @@ prints the newer account. Full verification links are in
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Final-entry resubmission, 27 Nov 2026: the best-graded version, re-entered unchanged — poster bytes identical.
